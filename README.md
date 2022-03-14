@@ -1,3 +1,3 @@
 # Joy's Festival
 
-Para conhecer nosso integrantes e o tema do projeto, acesse a tab "Wiki" do projeto.
+Para conhecer mais sobre o nosso projeto, acesse a aba "Wiki" do projeto.
